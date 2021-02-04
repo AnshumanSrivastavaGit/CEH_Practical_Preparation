@@ -3,6 +3,6 @@
 
 2. How to use Cewl?
 --> cewl -m 4 -w wordlist.txt http://10.10.10.10
---> cewl example.com -m 5 -w words.txt
+--> cewl.exe example.com -m 5 -w words.txt
 
 -m = Minimum character that will be put inside the wordlist result
